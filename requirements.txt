@@ -1,0 +1,9 @@
+
+<CodeBlock language="text" editable>
+fastapi
+uvicorn[standard]
+sentence-transformers
+numpy
+scikit-learn
+</CodeBlock>
+
